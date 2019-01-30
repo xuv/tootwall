@@ -1,0 +1,12 @@
+/* CSS files add styling rules to your content */
+body {
+  font-family: "mastodon-font-sans-serif", sans-serif;
+  background: #17191f;
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.slick-slide img {
+  display: unset; }
